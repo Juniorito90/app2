@@ -1,0 +1,14 @@
+.lmj-banner {
+    background-color: red;
+    border-bottom: solid 3px black;
+    color: white;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.lmj-banner-row{
+    display: flex;
+}
+.lmj-logo{
+    width: 100px;
+}
