@@ -1,4 +1,5 @@
 import monstera from '../assets/monstera.jpg'
+import yucca from '../assets/yucca.jpg'
 
 export const plantList = [
 	{
@@ -39,7 +40,7 @@ export const plantList = [
 		isSpecialOffer: false,
 		light: 2,
 		water: 0,
-		cover: monstera
+		cover: yucca
 	},
 	{
 		name: 'olivier',
